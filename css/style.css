@@ -1,3 +1,54 @@
 body{
-  background-color: turquoise;
+  background-color: #012A36;
+  color: #E6BCCD;
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  font-size: 26px;
+}
+
+
+section {
+  margin-bottom: 150px;
+  background-color: #7E52A0;
+  height: 50px;
+  position: absolute;
+  left: 0 ;
+  right: 0;
+  top: 0;
+}
+header{
+  margin-top: 55px;
+}
+ul {
+  background-color: #29274C;
+  border: 3px solid #E6BCCD;
+}
+
+a{
+  color: #E6BCCD;
+}
+
+main{
+  width: 1200px;
+  margin: 0 auto;
+  text-align: center;
+  text-justify: inter-word;
+}
+
+footer{
+  background-color: #7E52A0;
+  height: 175px;
+  width: 100%;
+  position: fixed;
+  left: 0;
+  bottom: 0;
+}
+
+.price {
+  position: fixed;
+}
+
+
+.parent{
+  top: 30px;
+  position: relative;
 }
